@@ -1,0 +1,5 @@
+google-chrome/
+mimeapps.list
+nvim/.config/google-chrome/
+nvim/.config/zenml/
+zsh/api_keys.sh
